@@ -22,11 +22,11 @@
   --decorated-border-color: #ff0070;
 }
 
-.theme-dark .header__decorative_element {
+.theme-dark .header__decorative-element {
   display: flex;
 }
 
-.theme-dark .header__decorative_element::after {
+.theme-dark .header__decorative-element::after {
   display: block;
 }
 
@@ -45,11 +45,11 @@
     --decorated-border-color: #ff0070;
   }
 
-  .header__decorative_element {
+  .header__decorative-element {
     display: flex;
   }
 
-  .header__decorative_element::after {
+  .header__decorative-element::after {
     display: block;
   }
 }
